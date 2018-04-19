@@ -2,11 +2,11 @@
 
 Run the following commands to install npm packages
 
-npm install twitter
-npm install spotify
-npm install request
+* npm install twitter
+* npm install spotify
+* npm install request
 
-*Commands to run LIRI
+* Commands to run LIRI
 
 Follow the format presented in these queries
 
